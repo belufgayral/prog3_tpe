@@ -1,0 +1,4 @@
+id_tarea,nombre_tarea,tiempo_ejecucion,es_critica,nivel_prioridad
+a,mantenimiento,10,false,30
+b,limpieza,25,false,20
+c,reorganizacion,55,true,60
